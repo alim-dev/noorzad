@@ -9,8 +9,7 @@ body{
 
 height:100vh;
 
-background:url("assets/background.jpg") center center/cover no-repeat fixed;
-
+background:url("assets/background.jpg") center center/cover no-repeat;
 display:flex;
 
 justify-content:center;
