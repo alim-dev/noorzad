@@ -64,15 +64,10 @@ animation:fade .8s;
 }
 
 .logo{
-
-width:180px;
-
-margin:auto;
-
+width:280px;
+max-width:90%;
 display:block;
-
-margin-bottom:20px;
-
+margin:0 auto 20px;
 }
 
 .slogan{
@@ -213,7 +208,7 @@ padding:25px;
 
 .logo{
 
-width:150px;
+width:220px;
 
 }
 
