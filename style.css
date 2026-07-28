@@ -63,10 +63,10 @@ animation:fade .8s;
 }
 
 .logo{
-width:280px;
-max-width:90%;
+width:320px;
+max-width:95%;
 display:block;
-margin:0 auto 20px;
+margin:0 auto 15px;
 }
 
 .slogan{
@@ -206,9 +206,7 @@ padding:25px;
 }
 
 .logo{
-
-width:220px;
-
+width:260px;
 }
 
 .btn{
@@ -229,6 +227,51 @@ font-weight:700;
 margin-bottom:10px;
 
 }
+.service-box{
+
+margin-top:25px;
+
+padding:18px;
+
+border-radius:16px;
+
+background:rgba(255,255,255,.08);
+
+border:1px solid rgba(212,175,55,.35);
+
+color:#fff;
+
+}
+
+.service-box i{
+
+font-size:34px;
+
+color:#d4af37;
+
+margin-bottom:10px;
+
+}
+
+.service-box h3{
+
+color:#d4af37;
+
+font-size:22px;
+
+margin-bottom:8px;
+
+}
+
+.service-box p{
+
+font-size:14px;
+
+color:#ddd;
+
+line-height:1.8;
+
+}  
 
 .slogan{
 
